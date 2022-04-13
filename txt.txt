@@ -1,0 +1,24 @@
+Id: 3
+Amount: 2
+Currency: eur
+PayerEmail: apple@gmail.com
+TransactionId: 23232312-12
+RequestDate: 23.05.2020
+DueToDate: 25.05.2023
+-----------------------
+Id: 4
+Amount: 23
+Currency: usd
+PayerEmail: 1232@gmail.com
+TransactionId: 23232388-28
+RequestDate: 23.05.2020
+DueToDate: 20.05.2025
+-----------------------
+Id: 23
+Amount: 5
+Currency: eur
+PayerEmail: 23232@gmail.com
+TransactionId: 23231212-12
+RequestDate: 23.05.2020
+DueToDate: 25.06.2030
+-----------------------
