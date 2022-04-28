@@ -1,0 +1,25 @@
+Id: 4
+Title: Diamond
+Code: 12345/6-55
+Material: gold
+Type: bracelets
+DateOfCreation: 02.05.2020 0:00:00
+Price: 2000
+============================
+Id: 5
+Title: 23
+Code: 12345/6-80
+Material: silver
+Type: bracelets
+DateOfCreation: 15.07.2020 0:00:00
+Price: 2500
+============================
+Id: 32
+Title: 23
+Code: 12321-23
+Material: gold
+Type: bracelets
+DateOfCreation: 23.05.2020 0:00:00
+Price: 3223
+============================
+
